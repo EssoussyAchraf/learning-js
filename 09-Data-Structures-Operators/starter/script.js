@@ -44,3 +44,4 @@ console.log(rest);
 console.log(Object.entries(openingHours));
 const mapHours = new Map(Object.entries(openingHours));
 console.log(mapHours);
+console.log('hello world')
