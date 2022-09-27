@@ -23,4 +23,4 @@ console.log(rest.get(arr));
 console.log(rest);
 console.log(Object.entries(openingHours));
 const mapHours = new Map(Object.entries(openingHours));
-console.log(mapHours);
+const question = new Map(["question", "what is the best programming language"]);
