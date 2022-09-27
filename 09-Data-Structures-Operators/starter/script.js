@@ -24,3 +24,4 @@ console.log(rest);
 console.log(Object.entries(openingHours));
 const mapHours = new Map(Object.entries(openingHours));
 const question = new Map(["question", "what is the best programming language"]);
+console.log(rest);
